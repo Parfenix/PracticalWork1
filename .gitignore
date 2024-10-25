@@ -1,0 +1,41 @@
+# Gradle files
+.gradle/
+build/
+out/
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+build/
+dist/
+*.nb-gradle/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# PostgreSQL
+*.sql
+*.dump
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+*.class
